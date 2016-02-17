@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name_scalar">Todos Lite - Scalar</string>
+    <string name="app_name_collection">Todos Lite - Collection</string>
+    <string name="add_item">Add</string>
+</resources>
