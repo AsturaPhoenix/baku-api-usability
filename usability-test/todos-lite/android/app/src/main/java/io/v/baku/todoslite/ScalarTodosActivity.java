@@ -4,12 +4,11 @@
 
 package io.v.baku.todoslite;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.widget.EditText;
 
-import io.v.baku.toolkit.BakuActivity;
-
-public class ScalarTodosActivity extends BakuActivity {
+public class ScalarTodosActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
